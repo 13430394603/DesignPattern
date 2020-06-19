@@ -74,7 +74,7 @@
 	* 解释器模式（Interpreter）
 	
 [decorator]:img/装饰类.png  
-[manyFactory]:img/多个 工厂.PNG  
-[abstractFactory]:img/抽象工厂.PNG  
-[buider]:img/建造者模式.PNG  
-[gFactory]:img/普通工厂.PNG  
+[manyFactory]:img/多个 工厂.png  
+[abstractFactory]:img/抽象工厂.png  
+[buider]:img/建造者模式.png  
+[gFactory]:img/普通工厂.png  
