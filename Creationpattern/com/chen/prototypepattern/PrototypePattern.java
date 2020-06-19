@@ -74,7 +74,7 @@ public class PrototypePattern implements Cloneable, Serializable{
  * <br>2017年9月28日 下午9:21:14 
  *
  */
-class SerializableObject implements Serializable {  
-    private static final long serialVersionUID = 1L;  
+class SerializableObject implements Serializable {
+    private static final long serialVersionUID = 1L;
 }  
 
